@@ -1,6 +1,6 @@
 package lk.ijse.dep11.edupanel.to.request;
 
-import lk.ijse.dep11.edupanel.validator.LecturerImage;
+import lk.ijse.dep11.edupanel.validation.LecturerImage;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

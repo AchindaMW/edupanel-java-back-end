@@ -1,4 +1,4 @@
-package lk.ijse.dep11.edupanel.to.request;
+package lk.ijse.dep11.edupanel.to.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

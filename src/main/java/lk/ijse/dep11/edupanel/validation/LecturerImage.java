@@ -1,4 +1,4 @@
-package lk.ijse.dep11.edupanel.validator;
+package lk.ijse.dep11.edupanel.validation;
 
 import javax.validation.Constraint;
 import javax.validation.Payload;
